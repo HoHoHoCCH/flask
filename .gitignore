@@ -1,0 +1,19 @@
+#vscode junk
+.vscode
+.DS_Store
+planfile
+
+#intellij
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# local virtualenv
+.venv/
+venv/
+
+# pyenv
+.python-version
+
